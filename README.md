@@ -1,4 +1,4 @@
-# Sistema Vinyl Control (Gestão de Acervo e Vendas)
+# Sistema Vinyl Control (Gestão de Acervo e Vendas) 
 
 - ## Documentação de Requisitos
   - ### Contextualização
