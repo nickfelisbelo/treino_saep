@@ -179,6 +179,3 @@
    npm run dev
    ```
 3. Abra `Front/index.html` no navegador. 
-4. O login envia `email` e `senha` para `POST /usuario/login`. Cadastre um usuário no banco para entrar.
-
-**Observação:** o endereço da API no front está definido como `http://localhost:3000`. Para acessar de outro dispositivo, troque `API_URL` nos scripts do front pelo endereço IP/URL do computador que está executando a API.
